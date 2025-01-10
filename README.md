@@ -26,7 +26,7 @@ You can double click on "index.html" or you can open it directly in your web bro
 
 ## Screenshot
 Here is a screenshot of the landing page output:
-![Calculator Screenshot](https://raw.githubusercontent.com/HackHerTiff/calculator/main/Project6.JPG)
+![Golf Lesson Landing Page Screenshot](https://raw.githubusercontent.com/HackHerTiff/golf-lesson-landing-page/main/Project3.JPG)
   
 ## File Structure 
 - /golf-lesson-landing-page
